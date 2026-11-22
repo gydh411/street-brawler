@@ -1,0 +1,20 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# 依赖与构建产物（本项目零依赖，留作备忘）
+node_modules/
+dist/
+build/
+
+# 本地临时文件
+*.log
+_tmp/
+
+# 本地保留的旧文件名副本（正式入口是 index.html）
+street-brawler.html
